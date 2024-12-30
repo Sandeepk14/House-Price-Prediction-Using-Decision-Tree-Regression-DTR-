@@ -39,3 +39,7 @@ Tools for deployment: Flask, Django, or FastAPI for backend development.
 Non-Linear Relationships: Captures complex, non-linear relationships between features and the target variable.
 Interpretability: Decision Trees clearly represent how predictions are made through their branching structure.
 No Need for Scaling: DTR does not require feature scaling (e.g., standardization or normalization).
+
+## Output
+![output](https://github.com/user-attachments/assets/2c4d5541-5ec9-4842-b486-345c923dc3e7)
+

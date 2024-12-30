@@ -5,7 +5,7 @@ This project aims to predict house prices based on various features such as loca
 
 `About the Meta Data:`
 
-#### Column Descriptions:
+## Column Descriptions:
 
 - SalePrice - the property's sale price in dollars. This is the target variable that you're trying to predict.
 - MSSubClass: The building class
